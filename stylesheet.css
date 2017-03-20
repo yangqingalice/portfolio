@@ -229,11 +229,11 @@ p {
   margin-top: 14px;
 }
 
-#sundancecontent {
-  height: 300px;
-}
-
 #link {
   font-family: Optima;
   font-weight: bold;
+}
+
+#zaxiscontent, #sundancecontent {
+  position: relative;
 }
